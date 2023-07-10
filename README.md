@@ -6,8 +6,8 @@
 ⚡ Confira meus projetos!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true&theme=ayu-mirage&&langs_count=8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&layout=compact&theme=ayu-mirage">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true&theme=ayu-mirage">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&layout=compact&theme=ayu-mirage&langs_count=8"">
 </div>
 
 #### Atualmente usando:
