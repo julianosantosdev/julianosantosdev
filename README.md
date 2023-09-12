@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Juliano! 👋
 
-🔭 Atualmente estudo desenvolvimento web na Kenzie Academy Brasil!
+🔭 Desenvolvedor Full-Stack formado na Kenzie Academy Brasil!
 <br>
 <br>
 ⚡ Confira meus projetos!
