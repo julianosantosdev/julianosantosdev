@@ -23,7 +23,7 @@
 <br>
 
 #### Front-end:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma" />
 
 #### Back-end:
 <img src="https://skillicons.dev/icons?i=python,django,express,nodejs,nestjs" />
