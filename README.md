@@ -13,23 +13,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&layout=compact">
 </div>
 
-#### Atualmente usando:
-<div style="display: inline_block">
-  <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="react" height="30" width="30" src="https://pics.computerbase.de/3/8/3/7/9/logo-192.83a829d2.png">
-  <img align="center" alt="mint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="firefox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg">
-  <img align="center" alt="trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-
-</div>
-
 <br>
 
-#### Front-end:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma" />
-
-#### Back-end:
-<img src="https://skillicons.dev/icons?i=python,django,express,nodejs,nestjs" />
+#### STACKS:
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,python,django,express,nodejs,nestjs,prisma,linux,docker,github,git,figma" />
 
 #### Redes Sociais e contato:
 <div>
