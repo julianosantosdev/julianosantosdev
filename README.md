@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Juliano! 👋
 
-🔭 Desenvolvedor Full-Stack formado na Kenzie Academy Brasil!
-<br>
-<br>
 👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na FATEC-SP
+<br>
+<br>
+🔭 Desenvolvedor Full-Stack formado na Kenzie Academy Brasil!
 <br>
 <br>
 ⚡ Confira meus projetos!
