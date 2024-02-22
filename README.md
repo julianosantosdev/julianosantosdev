@@ -3,7 +3,7 @@
 👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na FATEC-SP
 <br>
 <br>
-🔭 Desenvolvedor Full-Stack formado na Kenzie Academy Brasil!
+🔭 Desenvolvedor Web Full-Stack formado na Kenzie Academy Brasil!
 <br>
 <br>
 ⚡ Confira meus projetos!
