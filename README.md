@@ -16,7 +16,11 @@
 <br>
 
 #### STACKS:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,python,django,express,nodejs,nestjs,prisma,linux,docker,github,git,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,python,django,express,nodejs,nestjs,prisma,linux,docker,github,git,figma,mint,debian,windows&perline=9" />
+
+
+#### STUDYING:
+<img src="https://skillicons.dev/icons?i=cpp,mysql,mongodb&perline=9" />
 
 #### Redes Sociais e contato:
 <div>
