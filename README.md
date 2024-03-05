@@ -9,8 +9,8 @@
 ⚡ Confira meus projetos!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&hide_progress=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true&theme=yeblu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&hide_progress=true&theme=yeblu">
 </div>
 
 <br>
