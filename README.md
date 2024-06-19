@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Juliano! 👋
 
-👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na FATEC-SP
+👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na FATEC-ARARAS/SP
 <br>
 <br>
 🔭 Desenvolvedor Web Full-Stack formado na Kenzie Academy Brasil!
