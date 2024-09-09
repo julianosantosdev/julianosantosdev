@@ -20,7 +20,7 @@
 
 
 #### STUDYING:
-<img src="https://skillicons.dev/icons?i=cpp,mysql,mongodb&perline=9" />
+<img src="https://skillicons.dev/icons?i=cpp,mysql,mongodb,php,java&perline=9" />
 
 #### Redes Sociais e contato:
 <div>
