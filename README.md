@@ -6,10 +6,9 @@
 🔭 Desenvolvedor Web Full-Stack formado na Kenzie Academy Brasil!
 <br>
 <br>
-Advogado formado em Ciências Jurídicas e Sociais pela PUC-Campinas, curioso no Direito Digital e apaixonado por tecnologia, computadores e games.
+:balance_scale: Advogado formado em Ciências Jurídicas e Sociais pela PUC-Campinas, curioso no Direito Digital e apaixonado por tecnologia, computadores e games.
 <br>
 <br>
-⚡ Confira meus projetos!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true&theme=nightowl">
