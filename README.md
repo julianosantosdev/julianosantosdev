@@ -6,6 +6,9 @@
 🔭 Desenvolvedor Web Full-Stack formado na Kenzie Academy Brasil!
 <br>
 <br>
+Advogado formado em Ciências Jurídicas e Sociais pela PUC-Campinas, curioso no Direito Digital e apaixonado por tecnologia, computadores e games.
+<br>
+<br>
 ⚡ Confira meus projetos!
 
 <div>
