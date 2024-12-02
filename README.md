@@ -3,7 +3,7 @@
 👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na FATEC-ARARAS/SP
 <br>
 <br>
-🔭 Desenvolvedor Web Full-Stack formado na Kenzie Academy Brasil!
+🔭 Desenvolvedor Web Full-Stack formado na Kenzie Academy Brasil (2022/2023 - Turma 15)!
 <br>
 <br>
 :balance_scale: Advogado formado em Ciências Jurídicas e Sociais pela PUC-Campinas, curioso no Direito Digital e apaixonado por tecnologia, computadores e games.
