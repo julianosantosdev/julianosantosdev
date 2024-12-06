@@ -21,11 +21,11 @@
 <br>
 
 #### STACKS:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,django,express,nodejs,nestjs,prisma,git,linux,mint,debian,windows&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,python,django,express,nodejs,nestjs,prisma,mysql,git,linux,mint,debian,windows&perline=6" />
 
 
 #### STUDYING:
-<img src="https://skillicons.dev/icons?i=cpp,mysql,mongodb,php,java&perline=9" />
+<img src="https://skillicons.dev/icons?i=cpp,mongodb,java&perline=9" />
 
 #### Redes Sociais e contato:
 <div>
