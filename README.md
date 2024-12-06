@@ -3,6 +3,9 @@
 👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na FATEC-ARARAS/SP
 <br>
 <br>
+👨‍💻 Desenvolvedor backend voluntário no projeto Decola Juninho
+<br>
+<br>
 🔭 Desenvolvedor Web Full-Stack formado na Kenzie Academy Brasil (2022/2023 - Turma 15)!
 <br>
 <br>
