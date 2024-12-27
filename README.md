@@ -14,8 +14,8 @@
 <br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true&theme=nightowl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&hide_progress=true&theme=nightowl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&rank_icon=github&">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&hide_progress=true&theme=transparent">
 </div>
 
 <br>
