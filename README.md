@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Juliano! 👋
 
-👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na FATEC-ARARAS/SP
+👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnolocia (FATEC)- Araras/SP
 <br>
 <br>
 👨‍💻 Desenvolvedor backend voluntário no projeto Decola Juninho
