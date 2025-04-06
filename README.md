@@ -9,9 +9,6 @@
 👨‍💻 Formado em Desenvolvimento Web Full-Stack na Kenzie Academy Brasil (jul-2022/set-2023 - Turma 15)
 <br>
 <br>
-:balance_scale: Advogado formado em Ciências Jurídicas e Sociais pela PUC-Campinas, curioso no Direito Digital e apaixonado por tecnologia, computadores e games.
-<br>
-<br>
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&rank_icon=github&">
