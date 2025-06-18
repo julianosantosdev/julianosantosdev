@@ -3,7 +3,7 @@
 👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnolocia (FATEC)- Araras/SP
 <br>
 <br>
-👨‍💻 Formado em Desenvolvimento Web Full-Stack na Kenzie Academy Brasil (jul-2022/set-2023 - Turma 15)
+👨‍💻 Formado em Desenvolvimento Web Full-Stack (jul-2022/set-2023)
 <br>
 <br>
 
