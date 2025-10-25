@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Juliano! 👋
 
-👨‍💻 Estudante de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP)
+👨‍💻 Graduando em Desenvolvimento de Software - Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP)
 <br>
 👨‍💻 Formado em Desenvolvimento Web Full-Stack (jul-2022/set-2023)
 <br>
