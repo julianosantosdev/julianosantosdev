@@ -2,7 +2,10 @@
 
 👨‍💻 Graduando em Desenvolvimento de Software - Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP)
 <br>
-👨‍💻 Formado em Desenvolvimento Web Full-Stack (jul-2022/set-2023)
+📚 Formado em Desenvolvimento Web Full-Stack (jul-2022/set-2023)
+<br>
+⚖️ Advogado e Pós-Graduando em Direito Digital pela PUC-RS
+
 <!-- <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&hide_progress=true&theme=transparent">
