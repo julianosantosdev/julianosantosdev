@@ -3,15 +3,10 @@
 👨‍💻 Graduando em Desenvolvimento de Software - Faculdade de Tecnologia do Estado de São Paulo (FATEC-SP)
 <br>
 👨‍💻 Formado em Desenvolvimento Web Full-Stack (jul-2022/set-2023)
-<br>
-<br>
-
 <!-- <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&hide_progress=true&theme=transparent">
 </div> -->
-
-<br>
 
 #### STACKS:
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,python,django,express,nodejs,nestjs,prisma,mysql,git,linux,mint,debian,windows&perline=6" />
