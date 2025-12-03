@@ -6,10 +6,10 @@
 <br>
 <br>
 
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev&count_private=true&show_icons=true&theme=transparent&hide=stars&show=prs_merged,prs_merged_percentage&rank_icon=github&">
+<!-- <div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianosantosdev">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosantosdev&langs_count=8&hide_progress=true&theme=transparent">
-</div>
+</div> -->
 
 <br>
 
